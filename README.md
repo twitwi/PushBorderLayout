@@ -1,5 +1,9 @@
+# PushBorderLayout
 
 A BorderLayout that accepts any number of components within (without requiring to nest JPanels).
+There is also a [Scala version](http://github.com/twitwi/PushBorderLayoutScala).
+
+See also a [quick post on it](http://home.heeere.com/tech-push-border-layout.html).
 
 Example use:
 
